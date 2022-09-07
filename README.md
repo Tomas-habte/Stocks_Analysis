@@ -84,7 +84,6 @@ Old           |  New
 :-------------------------:|:-------------------------:
 ![2018 old performance](https://user-images.githubusercontent.com/111667387/188785180-e0e2c89b-146a-4991-9819-55876f9efaa4.png) | ![2018 new perfornance](https://user-images.githubusercontent.com/111667387/188787845-fde298bd-dbba-402a-b057-f36acf37ba43.png)
 
+## Summary
 
-
-
- 
+There are several advantages and disadvantages of refactoring. One of the main advantages is that it makes the script run faster as shown above which can be helpful when working with large datasets. Refactoring also makes it easier to understand what the code is doing. This is beneficial for the programmer as they can revisit the code and easily continue working on it and it also makes it easier for others to understand when working in a team. A disadvantage is that refactoring can take a lot of time to do as you need to have a solid understanding of VBA. Another disadvantage is that by refactoring the code there is a potential for errors to be made which would result in more time spent fixing the code. This was something I experienced as I kept getting an error trying to refactor the code. However, I am glad that the code was successful in the end as the script runs a lot faster now.
